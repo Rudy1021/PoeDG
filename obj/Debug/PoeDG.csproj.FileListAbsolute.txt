@@ -1,0 +1,15 @@
+C:\Users\w8674\source\repos\PoeDG\PoeDG\bin\Debug\PoeDG.exe.config
+C:\Users\w8674\source\repos\PoeDG\PoeDG\bin\Debug\PoeDG.exe
+C:\Users\w8674\source\repos\PoeDG\PoeDG\bin\Debug\PoeDG.pdb
+C:\Users\w8674\source\repos\PoeDG\PoeDG\obj\Debug\PoeDG.csproj.AssemblyReference.cache
+C:\Users\w8674\source\repos\PoeDG\PoeDG\obj\Debug\PoeDG.csproj.SuggestedBindingRedirects.cache
+C:\Users\w8674\source\repos\PoeDG\PoeDG\obj\Debug\PoeDG.Form1.resources
+C:\Users\w8674\source\repos\PoeDG\PoeDG\obj\Debug\PoeDG.Properties.Resources.resources
+C:\Users\w8674\source\repos\PoeDG\PoeDG\obj\Debug\PoeDG.csproj.GenerateResource.cache
+C:\Users\w8674\source\repos\PoeDG\PoeDG\obj\Debug\PoeDG.csproj.CoreCompileInputs.cache
+C:\Users\w8674\source\repos\PoeDG\PoeDG\obj\Debug\PoeDG.exe
+C:\Users\w8674\source\repos\PoeDG\PoeDG\obj\Debug\PoeDG.pdb
+C:\Users\w8674\source\repos\PoeDG\PoeDG\bin\Debug\PoeDG.exe.manifest
+C:\Users\w8674\source\repos\PoeDG\PoeDG\bin\Debug\PoeDG.application
+C:\Users\w8674\source\repos\PoeDG\PoeDG\obj\Debug\PoeDG.exe.manifest
+C:\Users\w8674\source\repos\PoeDG\PoeDG\obj\Debug\PoeDG.application
